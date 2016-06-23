@@ -1,0 +1,20 @@
+e7896d9 Revert "removed the header on the index.html"
+287b0b6 Revert "Revert "third file revert commit testing check""
+0de4007 Revert "Adding back the deleted file revert cmd testing"
+137e387 Revert "third file revert commit testing check"
+6aa8fe5 third file revert commit testing
+8ba41d8 Revert "second file revert commit testing"
+6401ae6 second file revert commit testing
+512f783 Revert "go to dummy commit"
+05822cd some commit
+cedf5bc waste commit okay na.. this one should revert to the dummy commit
+e25d32e dummy commit to revert back again
+f9ca634 removed the header on the index.html
+5848f60 adding an index file
+97f4e7c adding the files after renaming
+f0db8f0 Adding new file to the repo
+2ba1d8f adding all the files to the repo
+965b230 Adding the third file to check the diff cmd
+2c6c5d3 Adding the changed README file
+06fb9cc Adding the txt README file
+d003d65 Adding back the deleted file

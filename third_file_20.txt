@@ -24,3 +24,10 @@ Fuck why the file is not showing in the unstaged area and diff cmd is not workin
 
 
 now it looks like i have figured it out, the file needs to be commited to check the diff cmd, since the filre was already in the untracked was not able to run the diff cmd
+
+
+yaako hinge neenu
+
+iavga aagutta nodona iru
+
+matte idaralli change aagilla
